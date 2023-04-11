@@ -1,0 +1,22 @@
+{
+  "name": "mathai-foods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathaiMarvin/mathai-foods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathaiMarvin/mathai-foods/issues"
+  },
+  "homepage": "https://github.com/MathaiMarvin/mathai-foods#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
